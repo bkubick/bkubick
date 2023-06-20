@@ -42,5 +42,5 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
 
 
 <a href="https://github.com/bkubick" >
-  <img width="20" src="https://github.com/bkubick/bkubick/blob/main/linked_in.svg" alt="GitHub" />
+  <img width="20" src="https://github.com/bkubick/bkubick/blob/main/github.svg" alt="GitHub" />
 </a>
