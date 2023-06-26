@@ -11,7 +11,7 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
 <h4>:microscope: Current Projects</h4>
 <ol>
   <li>
-    Actively implementing a personal profile using React to highlight my past experiences and skill set (private repository currently, but will make public once built).
+    Actively implementing a personal profile using React to highlight my past experiences and skill set (public repo, but still being built).
   </li>
   <li>
     I am slowly building out a personal website to help me manage my investment portfolio using Flask, Vue3, and TypeScript (private repository).
