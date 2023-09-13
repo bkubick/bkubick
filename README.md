@@ -1,6 +1,6 @@
 <h3 align="middle">
   Hello, I'm Brandon :wave:
-  <h4 align="middle">Full-Stack Software Engineer & Aerospace Mechanical Engineer</h4>
+  <h4 align="middle">Full-Stack Software Engineer | Aerospace Engineer</h4>
 </h3>
 
 <hr/>
@@ -11,13 +11,22 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
 <h4>:microscope: Current Projects</h4>
 <ol>
   <li>
-    Actively implementing a personal profile using React to highlight my past experiences and skill set (public repo, but still being built).
+    My main focus is diving into the realm of deep learning as I prepare for the TensorFlow Developer Certificate exam near the end of September. I have been working on two primary repositories for this.
+    <ul>
+      <li>
+        <a href="https://github.com/bkubick/deep-learning-development">deep-learning-development</a>: This repository digs into actual examples of deep learning
+    projects following the Udemy Course, <a href="https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/25125208?start=1#content">TensorFlow Developer Certificate</a>.
+      </li>
+      <li>
+        <a href="https://github.com/bkubick/py-learning-toolbox">py-learning-toolbox</a>: This repositorty hosts structured modules of utility functions that I commonly use throughout my deep-learning projects.
+      </li>
+    </ul>
   </li>
   <li>
-    I am slowly building out a personal website to help me manage my investment portfolio using Flask, Vue3, and TypeScript (private repository).
+    Actively implementing a personal profile using React, TypeScript, and Tailwind to highlight my past experiences and skill set (public repo, but still being built).
   </li>
   <li>
-    Venturing into the realm of C++ and physics simulations through the development of various genetic algorithms.
+    I am slowly building out a personal website to help me manage my investment portfolio using Flask, Vue3, and TypeScript (private repository). If you are interested in viewing this repository, feel free to connect with me!
   </li>
 </ol>
 
