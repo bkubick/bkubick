@@ -23,10 +23,20 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
     </ul>
   </li>
   <li>
-    Actively implementing a personal profile using React, TypeScript, and Tailwind to highlight my past experiences and skill set (public repo, but still being built).
+    Actively implementing a personal profile using React, TypeScript, and Tailwind to highlight my past experiences and skill set. I am not a designer! The purpose of this is primarily to showcase my frontend development capabilities while offering a personalized website where I can go into detail on my work.
+      <ul>
+        <li>
+          <a href="https://github.com/bkubick/personal-portfolio">personal-portfolio</a>: This is still in the process of being built.
+        </li>
+      </ul>
   </li>
   <li>
-    I am slowly building out a personal website to help me manage my investment portfolio using Flask, Vue3, and TypeScript (private repository). If you are interested in viewing this repository, feel free to connect with me!
+    I am slowly building out a personal website to help me manage my investment portfolio using Flask, Vue3, and TypeScript.
+    <ul>
+      <li>
+        private repository: If you are interested in viewing this repository, feel free to connect with me!
+      </li>
+    </ul>
   </li>
 </ol>
 
@@ -42,7 +52,11 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
 <img alt="ROS" align="left" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
 <img alt="Vue" align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 <img alt="React" align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Flask" align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="TensorFlow" align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=whitee"/>
+<img alt="Matplotlib" align="left" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)"/>
+<img alt="Numpy" align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <h4>:iphone: Let's Connect!</h4>
 <a href="https://www.linkedin.com/in/brandonkubick/" stlye="padding-right:30px;">
