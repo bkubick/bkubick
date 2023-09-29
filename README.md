@@ -38,6 +38,14 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
       </li>
     </ul>
   </li>
+  <li>
+    I recently started building a personal website using Django, React, TypeScript, and Webpack that is responsible for tracking my tasks, goals, budget, etc.
+    <ul>
+      <li>
+        <a href="https://github.com/bkubick/life-mastermind">life-mastermind</a>: This is at the very beginning stages of being built.
+      </li>
+    </ul>
+  </li>
 </ol>
 
 <h4>:hammer_and_wrench: Technical Skills</h4>
@@ -53,6 +61,7 @@ I am a highly motivated individual seeking a mid-level position in Software Engi
 <img alt="Vue" align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 <img alt="React" align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Flask" align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Django" align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="TensorFlow" align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=whitee"/>
 <img alt="Matplotlib" align="left" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)"/>
 <img alt="Numpy" align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
