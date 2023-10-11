@@ -6,16 +6,20 @@
 <hr/>
 
 <h4>:open_book: About Me</h4>
-I am a highly motivated individual seeking a mid-level position in Software Engineering. With a background as a Full-Stack Software Developer, and as an R&D Aerospace Engineer, I have excelled in both fields due to my strong focus, dedication, and passion for learning.
+
+I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning.
+<br/>
+
+One of my primary focuses the past four months was preparing for the TensorFlow Developer Certificate exam, and I am excited to share that I am officially <a href="https://www.credential.net/f6e1bf27-abca-448b-a4f8-ced69396fd02">certified</a>!
 
 <h4>:microscope: Current Projects</h4>
 <ol>
   <li>
-    My main focus is diving into the realm of deep learning as I prepare for the TensorFlow Developer Certificate exam near the end of September. I have been working on two primary repositories for this.
+    My main focus is continuing to build experience in deep learning and AI. I have been working on two primary repositories for this.
     <ul>
       <li>
         <a href="https://github.com/bkubick/deep-learning-development">deep-learning-development</a>: This repository digs into actual examples of deep learning
-    projects following the Udemy Course, <a href="https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/25125208?start=1#content">TensorFlow Developer Certificate</a>.
+    projects following the Udemy Course, <a href="https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/25125208?start=1#content">TensorFlow Developer Certificate Machine Learning - Zero to Mastery</a>, in addition to other projects that I have done personally.
       </li>
       <li>
         <a href="https://github.com/bkubick/py-learning-toolbox">py-learning-toolbox</a>: This repositorty hosts structured modules of utility functions that I commonly use throughout my deep-learning projects.
