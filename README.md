@@ -10,7 +10,7 @@
 I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning.
 <br/>
 
-One of my primary focuses the past four months was preparing for the TensorFlow Developer Certificate exam, and I am excited to share that I am officially <a href="https://www.credential.net/f6e1bf27-abca-448b-a4f8-ced69396fd02">certified</a>!
+One of my primary focuses the past four months was preparing for the TensorFlow Developer Certificate exam, and I am excited to share that I am officially <span><img width="20" src="https://github.com/bkubick/bkubick/blob/main/tensorflow.svg" alt="TensorFlow" />&nbsp;<a href="https://www.credential.net/f6e1bf27-abca-448b-a4f8-ced69396fd02">certified</a>!</span>
 
 <h4>:microscope: Current Projects</h4>
 <ol>
