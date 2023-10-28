@@ -22,7 +22,7 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
     projects following the Udemy Course, <a href="https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/25125208?start=1#content">TensorFlow Developer Certificate Machine Learning - Zero to Mastery</a>, in addition to other projects that I have done personally.
       </li>
       <li>
-        <a href="https://github.com/bkubick/py-learning-toolbox">py-learning-toolbox</a>: This repositorty hosts structured modules of utility functions that I commonly use throughout my deep-learning projects.
+        <a href="https://github.com/bkubick/py-learning-toolbox">py-learning-toolbox</a>: This repository hosts structured modules of utility functions that I commonly use throughout my deep-learning projects.
       </li>
     </ul>
   </li>
