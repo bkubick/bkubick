@@ -69,14 +69,17 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
 <img alt="TensorFlow" align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="Matplotlib" align="left" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)"/>
 <img alt="Numpy" align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="Pandas" align="left" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="SQLite" align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="Elasticsearch" align="left" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+<img alt="SQLite" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
 <h4>:iphone: Let's Connect!</h4>
-<a href="https://www.linkedin.com/in/brandonkubick/" stlye="padding-right:30px;">
-  &nbsp;<img width="20" src="https://github.com/bkubick/bkubick/blob/main/linked_in.svg" alt="LinkedIn" /> &nbsp;
+<a href="https://www.linkedin.com/in/brandonkubick/">
+  <img width="20" align="left" src="https://github.com/bkubick/bkubick/blob/main/linked_in.svg" alt="LinkedIn" />
 </a>
 
-
-<a href="https://github.com/bkubick" >
+<a href="https://github.com/bkubick" style="text-decoration:none;">
   <img width="20" src="https://github.com/bkubick/bkubick/blob/main/github.svg" alt="GitHub" />
 </a>
