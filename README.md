@@ -15,7 +15,18 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
 <h4>:microscope: Current Projects</h4>
 <ol>
   <li>
-    My main focus is continuing to build experience in deep learning and AI. I have been working on two primary repositories for this.
+    My main focus is to build out a personal website using React, TypeScript, Webpack, AWS, and Tailwind to host my custom tools I use, a personal dashboard, and my personal portfolio. The two purposes of this project includes developing my skills, while having a personal website I can use to help simplify and track areas of my everyday life.
+      <ul>
+        <li>
+          <a href="https://github.com/bkubick/b2the3-website">b2the3-website repo</a>: This is still in the process of being built, but I have a handful of pages setup with various one-off tools I have developed for personal use.
+        </li>
+        <li>
+          <a href="https://main.d2semq1uh5h3uk.amplifyapp.com/">See Wesbite</a>
+        </li>
+      </ul>
+  </li>
+  <li>
+    My secondary focus is continuing to build experience in deep learning and AI. I have been working on two primary repositories for this.
     <ul>
       <li>
         <a href="https://github.com/bkubick/deep-learning-development">deep-learning-development</a>: This repository digs into actual examples of deep learning
@@ -25,14 +36,6 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
         <a href="https://github.com/bkubick/py-learning-toolbox">py-learning-toolbox</a>: This repository hosts structured modules of utility functions that I commonly use throughout my deep-learning projects.
       </li>
     </ul>
-  </li>
-  <li>
-    Actively implementing a personal profile using React, TypeScript, and Tailwind to highlight my past experiences and skill set. I am not a designer! The purpose of this is primarily to showcase my frontend development capabilities while offering a personalized website where I can go into detail on my work.
-      <ul>
-        <li>
-          <a href="https://github.com/bkubick/personal-portfolio">personal-portfolio</a>: This is still in the process of being built.
-        </li>
-      </ul>
   </li>
   <li>
     I am slowly building out a personal website to help me manage my investment portfolio using Flask, Vue3, and TypeScript.
@@ -73,7 +76,8 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="SQLite" align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Elasticsearch" align="left" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-<img alt="SQLite" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="GCP" align=left  src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 <h4>:iphone: Let's Connect!</h4>
 <a href="https://www.linkedin.com/in/brandonkubick/">
