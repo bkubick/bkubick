@@ -45,14 +45,6 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
       </li>
     </ul>
   </li>
-  <li>
-    I recently started building a personal website using Django, React, TypeScript, and Webpack that is responsible for tracking my tasks, goals, budget, etc.
-    <ul>
-      <li>
-        <a href="https://github.com/bkubick/life-mastermind">life-mastermind</a>: This is at the very beginning stages of being built.
-      </li>
-    </ul>
-  </li>
 </ol>
 
 <h4>:hammer_and_wrench: Technical Skills</h4>
