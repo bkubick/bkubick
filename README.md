@@ -10,7 +10,7 @@
 I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning.
 <br/>
 
-One of my primary focuses the past four months was preparing for the TensorFlow Developer Certificate exam, and I am excited to share that I am officially <span><img width="20" src="https://github.com/bkubick/bkubick/blob/main/tensorflow.svg" alt="TensorFlow" />&nbsp;<a href="https://www.credential.net/f6e1bf27-abca-448b-a4f8-ced69396fd02">certified</a>!</span>
+&nbsp;
 
 <h4>:microscope: Current Projects</h4>
 <ol>
@@ -47,6 +47,17 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
   </li>
 </ol>
 
+&nbsp;
+
+<h4>:trophy: Certifications</h4>
+<ul>
+  <li>
+    <span><img width="20" src="https://github.com/bkubick/bkubick/blob/main/tensorflow.svg" alt="TensorFlow" />&nbsp;<a href="https://www.credential.net/f6e1bf27-abca-448b-a4f8-ced69396fd02">TensorFlow certified</a></span>
+  </li>
+</ul>
+
+&nbsp;
+
 <h4>:hammer_and_wrench: Technical Skills</h4>
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <img alt="Python" align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -70,6 +81,9 @@ One of my primary focuses the past four months was preparing for the TensorFlow 
 <img alt="Elasticsearch" align="left" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 <img alt="GCP" align=left  src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+&nbsp;
+&nbsp;
 
 <h4>:iphone: Let's Connect!</h4>
 <a href="https://www.linkedin.com/in/brandonkubick/">
