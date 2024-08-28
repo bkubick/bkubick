@@ -7,7 +7,7 @@
 
 <h4>:open_book: About Me</h4>
 
-I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning. Check out <a href="https://bkubick.github.io/personal-portfolio/">my portfolio</a>!
+I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning. Check out <a href="https://bkubick.github.io/personal-portfolio/">my portfolio that is a work in progress</a>!
 <br/>
 
 &nbsp;
