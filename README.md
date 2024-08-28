@@ -7,7 +7,7 @@
 
 <h4>:open_book: About Me</h4>
 
-I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning.
+I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning. Check out <a href="https://bkubick.github.io/personal-portfolio/">my portfolio</a>!
 <br/>
 
 &nbsp;
@@ -15,7 +15,7 @@ I am a highly motivated individual with a background as both a Full-Stack Softwa
 <h4>:microscope: Current Projects</h4>
 <ol>
   <li>
-    My main focus is to build out a personal website using React, TypeScript, Webpack, AWS, and Tailwind to host my custom tools I use, a personal dashboard, and my personal portfolio. The two purposes of this project includes developing my skills, while having a personal website I can use to help simplify and track areas of my everyday life.
+    I have been building out a personal website using React, TypeScript, Webpack, AWS, and Tailwind to host my custom tools I use, a personal dashboard, and my personal portfolio. The two purposes of this project includes developing my skills, while having a personal website I can use to help simplify and track areas of my everyday life.
       <ul>
         <li>
           <a href="https://github.com/bkubick/b2the3-website">b2the3-website repo</a>: This is still in the process of being built, but I have a handful of pages setup with various one-off tools I have developed for personal use.
@@ -26,7 +26,7 @@ I am a highly motivated individual with a background as both a Full-Stack Softwa
       </ul>
   </li>
   <li>
-    My secondary focus is continuing to build experience in deep learning and AI. I have been working on two primary repositories for this.
+    I have been slowly building out experience in deep learning and AI to help expand my skillset. I have been working on two primary repositories for this.
     <ul>
       <li>
         <a href="https://github.com/bkubick/deep-learning-development">deep-learning-development</a>: This repository digs into actual examples of deep learning
@@ -69,6 +69,7 @@ I am a highly motivated individual with a background as both a Full-Stack Softwa
 <img alt="Git" align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="ROS" align="left" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
 <img alt="Vue" align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+<img alt="Quasar" align="left" src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black"/>
 <img alt="React" align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Flask" align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="Django" align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -80,7 +81,8 @@ I am a highly motivated individual with a background as both a Full-Stack Softwa
 <img alt="SQLite" align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Elasticsearch" align="left" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 <img alt="GCP" align=left  src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="AWS" align=left src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Datadog" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
 
 &nbsp;
 &nbsp;
