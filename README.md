@@ -7,7 +7,7 @@
 
 <h4>:open_book: About Me</h4>
 
-I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning. Check out <a href="https://bkubick.github.io/personal-portfolio/">my portfolio</a> that I am working on!
+I am a highly motivated individual with a background as both a Full-Stack Software Developer, and as an Aviation Aerospace Engineer. I have excelled in both fields due to my strong focus, dedication, and passion for learning.
 <br/>
 
 &nbsp;
@@ -18,10 +18,13 @@ I am a highly motivated individual with a background as both a Full-Stack Softwa
     I have been building out a personal website using React, TypeScript, Webpack, AWS, and Tailwind to host my custom tools I use, a personal dashboard, and my personal portfolio. The two purposes of this project includes developing my skills, while having a personal website I can use to help simplify and track areas of my everyday life.
       <ul>
         <li>
-          <a href="https://github.com/bkubick/b2the3-website">b2the3-website repo</a>: This is still in the process of being built, but I have a handful of pages setup with various one-off tools I have developed for personal use.
+          <a href="https://github.com/bkubick/b2the3-website">b2the3-website repo</a>: This is still in the process of being built, but I have a handful of pages setup with various one-off tools I have developed for personal use. I am also starting to split out my personal portfolio to expand my skillset with React and design.
         </li>
         <li>
-          <a href="https://main.d2semq1uh5h3uk.amplifyapp.com/">See Wesbite</a>
+          See my Personal <a href="https://main.d2semq1uh5h3uk.amplifyapp.com/">Wesbite</a>!
+        </li>
+        <li>
+          See my Personal <a href="https://bkubick.github.io/personal-portfolio/">Portfolio</a>!
         </li>
       </ul>
   </li>
