@@ -18,13 +18,10 @@ I am a highly motivated individual with a background as both a Full-Stack Softwa
     I have been building out a personal website using React, TypeScript, Webpack, AWS, and Tailwind to host my custom tools I use, a personal dashboard, and my personal portfolio. The two purposes of this project includes developing my skills, while having a personal website I can use to help simplify and track areas of my everyday life.
       <ul>
         <li>
-          <a href="https://github.com/bkubick/b2the3-website">b2the3-website repo</a>: This is still in the process of being built, but I have a handful of pages setup with various one-off tools I have developed for personal use. I am also starting to split out my personal portfolio to expand my skillset with React and design.
+          <a href="https://github.com/bkubick/b2the3-website">b2the3-website repo</a>: This is still in the process of being built, but I have a handful of pages setup to include an in-progress personal portfolio, a health metrics that works with fitness metrics, and various one-off tools I have developed for personal use.
         </li>
         <li>
           See my Personal <a href="https://main.d2semq1uh5h3uk.amplifyapp.com/">Wesbite</a>!
-        </li>
-        <li>
-          See my Personal <a href="https://bkubick.github.io/personal-portfolio/">Portfolio</a>!
         </li>
       </ul>
   </li>
